@@ -1,8 +1,8 @@
 ![miniature_ayznn](https://user-images.githubusercontent.com/67419505/148667736-3b8b80f1-a9ef-4bf8-a9e3-263ebfe68a5f.png)
 
 **Description**
-> WaveVehiclesPreview is an amazing FiveM STANDALONE resource, allowing you to exhibit your most beautiful vehicles at the dealership and offer a catalog worthy of the name!
-> Every features is configurable and can be adapted to all your tastes! 
+> WaveSkills is an amazing STANDALONE resource, allowing you to develop skills and unlock abilities, thus making your character more interesting .
+> Every features is configurable and can be adapted to all your tastes!
 
 **Showcase**
 > Watch the [Showcase](https://www.youtube.com/watch?v=cDjsxFXmKg0) !
